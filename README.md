@@ -1,4 +1,4 @@
-## Job Application's Status Tracker
+## Job portal
 ----
 **Description** <br>
 This is a Full Stack (MERN) Job Portal Application built with 
