@@ -2,7 +2,7 @@
 ----
 **Description** <br>
 This is a Full Stack (MERN) Job Portal Application built with 
-- HTML,CSS,JAVASCRIPT for fronted
+- React use  for fronted
 - Node JS for Runtime
 - Express JS for Backend Routing
 - Mongo DB for Database
